@@ -135,4 +135,4 @@ bot.on("message", function(message) { // when a message is sent
 
 });
 
-bot.login('NTUzOTE2NjA2OTM0NDE3NDA4.D2aEDA.OpMnIQuyqxp-x5rqSrkFFpzq8wg'); // connects to the bot
+bot.login('process.env.BOT_TOKEN'); // connects to the bot
